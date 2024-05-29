@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Project A",
+      "imageSrc": "projects/project.png",
+      "description": "project description",
+      "skills": ["skill 1", "skill 2", "skill 3"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project B",
+      "imageSrc": "projects/project.png",
+      "description": "project description",
+      "skills": ["skill 1", "skill 2", "skill 3", "skill 4"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Project C",
+      "imageSrc": "projects/project.png",
+      "description": "project description",
+      "skills": ["skill 1", "skill 2", "skill 3", "skill 4"],
+      "demo": "https://www.example.com",
+      "source": "https://www.github.com"
+    }
+  ]

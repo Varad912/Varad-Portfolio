@@ -1,0 +1,26 @@
+[
+    {
+      "role": "Role",
+      "organisation": "Organization",
+      "startDate": "Month, Year",
+      "endDate": "end date",
+      "experiences": ["experience 1", "experience 2"],
+      "imageSrc": "history/google.png"
+    },
+    {
+      "role": "Role",
+      "organisation": "Organization",
+      "startDate": "Month, Year",
+      "endDate": "end date",
+      "experiences": ["experience 1", "experience 2"],
+      "imageSrc": "history/microsoft.png"
+    },
+    {
+      "role": "Role",
+      "organisation": "Organization",
+      "startDate": "Month, Year",
+      "endDate": "end date",
+      "experiences": ["experience 1", "experience 2"],
+      "imageSrc": "history/netflix.png"
+    }
+  ]
